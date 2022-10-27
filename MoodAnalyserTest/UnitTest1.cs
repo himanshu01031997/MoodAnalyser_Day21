@@ -9,14 +9,14 @@ namespace MoodAnalyserTest
         {
             //Arrange
             string Expected = "SAD";
-            string message = "I am in SAD mood";
+            string message = "I am in ANY mood";
             MoodAnalyser MA = new MoodAnalyser(message);
 
             //Act
             string mood = MA.AnalyseMood();
 
             //Assert
-            Assert.AreEqual(Expected, mood);
+            Assert.AreNotEqual(Expected, mood);
 
 
 
