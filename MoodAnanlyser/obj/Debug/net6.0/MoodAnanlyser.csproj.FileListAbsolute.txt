@@ -1,0 +1,15 @@
+D:\RFP-208\MoodAnalysier\MoodAnanlyser\bin\Debug\net6.0\MoodAnanlyser.exe
+D:\RFP-208\MoodAnalysier\MoodAnanlyser\bin\Debug\net6.0\MoodAnanlyser.deps.json
+D:\RFP-208\MoodAnalysier\MoodAnanlyser\bin\Debug\net6.0\MoodAnanlyser.runtimeconfig.json
+D:\RFP-208\MoodAnalysier\MoodAnanlyser\bin\Debug\net6.0\MoodAnanlyser.dll
+D:\RFP-208\MoodAnalysier\MoodAnanlyser\bin\Debug\net6.0\MoodAnanlyser.pdb
+D:\RFP-208\MoodAnalysier\MoodAnanlyser\obj\Debug\net6.0\MoodAnanlyser.csproj.AssemblyReference.cache
+D:\RFP-208\MoodAnalysier\MoodAnanlyser\obj\Debug\net6.0\MoodAnanlyser.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP-208\MoodAnalysier\MoodAnanlyser\obj\Debug\net6.0\MoodAnanlyser.AssemblyInfoInputs.cache
+D:\RFP-208\MoodAnalysier\MoodAnanlyser\obj\Debug\net6.0\MoodAnanlyser.AssemblyInfo.cs
+D:\RFP-208\MoodAnalysier\MoodAnanlyser\obj\Debug\net6.0\MoodAnanlyser.csproj.CoreCompileInputs.cache
+D:\RFP-208\MoodAnalysier\MoodAnanlyser\obj\Debug\net6.0\MoodAnanlyser.dll
+D:\RFP-208\MoodAnalysier\MoodAnanlyser\obj\Debug\net6.0\refint\MoodAnanlyser.dll
+D:\RFP-208\MoodAnalysier\MoodAnanlyser\obj\Debug\net6.0\MoodAnanlyser.pdb
+D:\RFP-208\MoodAnalysier\MoodAnanlyser\obj\Debug\net6.0\MoodAnanlyser.genruntimeconfig.cache
+D:\RFP-208\MoodAnalysier\MoodAnanlyser\obj\Debug\net6.0\ref\MoodAnanlyser.dll
