@@ -22,7 +22,7 @@ namespace MoodAnalyserTest
 
         }
         [TestMethod]
-        [DataRow("in sad mood")]
+        [DataRow(null)]
         public void HandleExceptiontest(string message)
         {
             // Arrange
