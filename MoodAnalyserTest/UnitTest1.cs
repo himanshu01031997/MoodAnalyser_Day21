@@ -21,5 +21,22 @@ namespace MoodAnalyserTest
 
 
         }
+        [TestMethod]
+        [DataRow("in sad mood")]
+        public void HandleExceptiontest(string message)
+        {
+            // Arrange
+            string expected = "HAPPY";
+            MoodAnalyser MA1 = new MoodAnalyser(message);
+
+            //Act
+            string mood = MA1.AnalyseMood();
+
+            //Assert
+            Assert.AreEqual(expected, mood);
+
+
+        }
+
     }
 }

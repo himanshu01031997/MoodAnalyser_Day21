@@ -10,24 +10,29 @@ namespace MoodAnanlyser
     {
         public string message;
 
-        public MoodAnalyser()
-        {
-        }
-
+       
         public MoodAnalyser(string message)
         {
             this.message = message;
         }
         public string AnalyseMood()
         {
-            if (this.message.Contains("SAD"))
+            try
             {
-                return "SAD";
+                if (this.message.Contains("SAD"))
+                {
+                    return "SAD";
+                }
+                else
+                {
+                    return "HAPPY";
+                }
             }
-            else
+            catch
             {
                 return "HAPPY";
             }
+           
         }
     }
 }
